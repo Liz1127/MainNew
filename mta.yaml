@@ -76,7 +76,7 @@ modules:
           target-path: resources/
   - name: myapproval
     type: html5
-    path: app/approval
+    path: app/user_approval
     build-parameters:
       build-result: dist
       builder: custom
